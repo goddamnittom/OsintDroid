@@ -33,3 +33,7 @@ Linux: Download SDK Platform-Tools for Linux https://dl.google.com/android/repos
 - Won't work if USB Debugging is off
 - Won't hack into someone else's phone remotely — you need physical access
 ────────────────────────────────────────────────────────────────────────────────
+
+
+***Windows Users*** 
+Users on windows may be forced to use WSL or Git Bash
