@@ -1,7 +1,8 @@
 # OsintDroid
 OsintDroid is a script that helps you snoop on an Android phone — but only if you own the phone and have plugged it into your computer.
 It uses ADB (Android Debug Bridge). Think of ADB as a secret backdoor that Android phones have for developers. If you turn on "USB Debugging" in your phone's settings and plug it in with a cable, your computer can talk directly to the phone's brain.
-What It Can Do (With One Click)
+
+***What It Can Do (With One Click)***
 Once connected, OsintDroid shows you a menu. Pick a number, and it pulls data off the phone.
 
 ***The Features***
@@ -25,6 +26,7 @@ macOS: Download SDK Platform-Tools for Mac https://dl.google.com/android/reposit
 Linux: Download SDK Platform-Tools for Linux https://dl.google.com/android/repository/platform-tools-latest-linux.zip
 4. An Android phone with USB Debugging turned on (S ettings → Developer Options)
 5. A USB cable
+
 ***What It Can't Do***
 - Doesn't need root, but some features (WiFi passwords) work better with it
 - Read-only — it never writes to the phone
